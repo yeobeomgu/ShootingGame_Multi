@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\vr14\\shootinggamecode\\plugins\\itemplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\itemplugin\\uht\\testpluginactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\vr14\\shootinggamecode\\intermediate\\build\\win64\\x64\\shootinggamecodeeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\work\\vr14\\shootinggamecode\\plugins\\itemplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\itemplugin\\definitions.itemplugin.h",
+            "c:\\work\\vr14\\shootinggamecode\\plugins\\itemplugin\\source\\itemplugin\\public\\testpluginactor.h",
+            "c:\\work\\vr14\\shootinggamecode\\plugins\\itemplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\itemplugin\\uht\\testpluginactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

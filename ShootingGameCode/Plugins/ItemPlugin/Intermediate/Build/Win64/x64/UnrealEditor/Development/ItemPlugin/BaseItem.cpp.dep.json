@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\vr14\\shootinggamecode\\plugins\\itemplugin\\source\\itemplugin\\private\\baseitem.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\vr14\\shootinggamecode\\intermediate\\build\\win64\\x64\\shootinggamecodeeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\work\\vr14\\shootinggamecode\\plugins\\itemplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\itemplugin\\definitions.itemplugin.h",
+            "c:\\work\\vr14\\shootinggamecode\\plugins\\itemplugin\\source\\itemplugin\\public\\baseitem.h",
+            "c:\\work\\vr14\\shootinggamecode\\plugins\\itemplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\itemplugin\\uht\\baseitem.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h",
+            "c:\\work\\vr14\\shootinggamecode\\plugins\\itemplugin\\source\\itemplugin\\public\\iteminterface.h",
+            "c:\\work\\vr14\\shootinggamecode\\plugins\\itemplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\itemplugin\\uht\\iteminterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
